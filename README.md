@@ -1,5 +1,6 @@
 # PhotonStack
 A bunch of stacked shields for the Particle Photon.
+Assembly video: https://www.youtube.com/watch?v=XreFps8lWMY
 ## Materials
 1. 3x7 cm protoboard
 2. 2 4x6 cm protoboard
